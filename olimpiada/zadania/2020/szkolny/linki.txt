@@ -1,0 +1,5 @@
+49/1	I/II/5
+49/2	III/Biotechnologia molekularna/1
+49/3	II/Aparat ruchu/15
+49/4	I/III/1
+49/5	II?/???/>>
